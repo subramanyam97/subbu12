@@ -48,6 +48,5 @@ Software Engineer | Python Developer | AI Enthusiast
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/subramanyam19/subramanyam19/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+![snake gif](https://github.com/subramanyam97/subramanyam97/blob/output/github-contribution-grid-snake.svg)
 </p>
