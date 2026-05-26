@@ -41,7 +41,8 @@ Software Engineer | Python Developer | AI Enthusiast
 
 ## 🌐 Connect With Me
 
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: rsubramanyam808@gmail.com
+- MyPortfolio
 
 ---
 
